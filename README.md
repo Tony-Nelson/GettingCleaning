@@ -15,7 +15,7 @@ After this, we have an object with the full data and we extract the necessary in
 columns with the measurement variables that have the word "mean" in its name (does not matter if it is lower or upper case); columns with the measurement variables that have the word "std" (standard deviation) in its name; columns with the "subject" and "activities" data.
 All these new objects (with mean, standard deviation, subjects, and activities) are then joined into a new object.
 We made some changes in the names of the measurement variables taking away some symbols (e.g., "-") or 
-changing them to "_". We decided not to make all the characters in lower case, because we think uppercase can help reading
+changing them to the undescore symbol. We decided not to make all the characters in lower case, because we think uppercase can help reading
 the variables name. In the same way, we use the underscore symbol "_" to help with reading the names.
 So, there was our intention to leave uppercase and the symbol "_" in the variables name.
 After this change in the variables name, we created an object named "Data1". We removed all the 
