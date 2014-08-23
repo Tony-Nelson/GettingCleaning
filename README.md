@@ -21,7 +21,7 @@ After this change in the variables name, we created an object named "Data1". We 
 unnecessary objects from R environment (except for "Data1").
 This "Data1" is an object with all the means and standard deviation of the measured variables, 
 the subject's number of identification (1 to 30) and the actitivity labels.
-##We then started to make our tidy (and wide) new dataset.
+##We then started to make our tidy (and wide) new dataset (Data2):
 As asked in step five of the assignment, we created  
 "... a second, independent tidy data set with the average of each variable for each activity and
 each subject." (Jeff Leek and team). 
