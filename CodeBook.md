@@ -64,9 +64,9 @@ The columns are the variables. The first column presents the actitivies. The sec
 [47] "fBodyBodyGyroJerkMag_mean"    : numeric, mean;      
 [48] "fBodyBodyGyroJerkMag_meanFreq"  : numeric, mean;    
 [49] "angle_tBodyAccMeangravity_"   : numeric, mean;      
-[50] "angle_tBodyAccJerkMean_gravityMean_": numeric, mean;
-[51] "angle_tBodyGyroMeangravityMean_"    : numeric, mean;
-[52] "angle_tBodyGyroJerkMeangravityMean_": numeric, mean;
+[50] "angle_tBodyAccJerkMean_gravityMean_": numeric, mean;     
+[51] "angle_tBodyGyroMeangravityMean_"    : numeric, mean;    
+[52] "angle_tBodyGyroJerkMeangravityMean_": numeric, mean;    
 [53] "angle_XgravityMean_"      : numeric, mean;          
 [54] "angle_YgravityMean_"    : numeric, mean;            
 [55] "angle_ZgravityMean_"       : numeric, mean;         
@@ -105,7 +105,7 @@ The columns are the variables. The first column presents the actitivies. The sec
 [88] "fBodyBodyGyroJerkMag_std"   : numeric, mean of the standard deviation.
 
 
-## Reference for the original dataset:
+## Reference for the original dataset that was transformed with the script provided here:
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
