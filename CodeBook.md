@@ -15,7 +15,8 @@ The rows are the combination of each 30 subjects performing six (6) different cl
 The columns are the variables. The first column presents the actitivies. The second column presents the number of identification of subjects.  The 3rd to 88th columns are averages of each measurement (described above) related to each subject and activities.
 
 ##variable name:
- [1] "activities": (6 levels) "laying", "sitting", "standing", "walking", "walking_downstairs", and "walking_upstairs";
+ [1] "activities": (6 levels) "laying", "sitting", "standing", "walking", 
+ "walking_downstairs", and "walking_upstairs";   
  [2] "subjects": 30 subjects;                           
  [3] "tBodyAcc_mean_X": numeric, mean;                    
  [4] "tBodyAcc_mean_Y": numeric, mean;                    
